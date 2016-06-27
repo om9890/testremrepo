@@ -13,6 +13,7 @@
 int main(void) {
 	printf("Hello");
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	printf("Push done on server");
 	return 1;
 
 }
